@@ -14,4 +14,4 @@ Flutter State Management :  Utilizes efficient Flutter state management for seam
 This repository serves as the foundation for an ecommerce app UI, providing insights into clean code practices and effective state management.
 
 ### Feedback :
-For any suggestions or feedback, please reach out to us at cpmuhammedsinan@gmail.com. Your inputs are valuable for enhancing CP Ecommerce.
+For any suggestions or feedback, please reach out to me at cpmuhammedsinan@gmail.com. Your inputs are valuable for enhancing CP Ecommerce.
