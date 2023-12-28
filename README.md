@@ -7,6 +7,7 @@ CP Ecommerce is an MVP design showcasing a straightforward and intuitive UI for 
 Simplified UI :  Intuitive and minimalistic design for streamlined ecommerce interactions.
 
 MVP Framework :  Demonstrates a Minimum Viable Product framework for rapid development and testing.
+
 Flutter State Management :  Utilizes efficient Flutter state management for seamless functionality.
 
 ### Purpose :
